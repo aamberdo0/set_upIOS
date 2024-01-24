@@ -17,8 +17,7 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-https://github.com/aamberdo0/set_upIOS/assets/122891092/94270539-fdd0-4f50-97fa-366c5bc1c071 .
-
+https://github.com/aamberdo0/set_upIOS/assets/122891092/cee198c3-56db-4079-a219-323a4655fc00
 ## App Brainstorming (Step 4)
     Instagram: 
         - Deleting old message
