@@ -39,7 +39,7 @@ https://github.com/aamberdo0/set_upIOS/assets/122891092/94270539-fdd0-4f50-97fa-
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Amber Do]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
